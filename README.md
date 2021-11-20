@@ -25,7 +25,7 @@ Acontinuacion  dare un breve resumen de mi, mis actitudes y tecnologias que ahor
   
   Acontinuacion les dejo una muestra visual del poryecto
 
- <img src="http://g.recordit.co/OnWI8TSR79.gif" width="300" height="400" />
+ <img src="http://g.recordit.co/OnWI8TSR79.gif" width="600" height="400" />
 
 
 
