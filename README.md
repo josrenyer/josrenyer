@@ -23,7 +23,7 @@ Acontinuacion  dare un breve resumen de mi, mis actitudes y tecnologias que ahor
   - Filtrarlos / Ordenarlos
   - Crear actividades turísticas
   
-  Acontinuacion les dejo una muestra visual del poryecto 
+  A continuación les dejo una muestra visual del proyecto 
 
   ![paises](http://g.recordit.co/VpEz25l2sF.gif)
 
