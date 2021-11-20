@@ -23,9 +23,11 @@ Acontinuacion  dare un breve resumen de mi, mis actitudes y tecnologias que ahor
   - Filtrarlos / Ordenarlos
   - Crear actividades turísticas
   
-  Acontinuacion les dejo una muestra visual del poryecto
+  Acontinuacion les dejo una muestra visual del poryecto 
 
- <img src="http://g.recordit.co/OnWI8TSR79.gif" width="600" height="400" />
+  ![countri](http://g.recordit.co/OnWI8TSR79.gif)
+
+   ![pokedex_demo](http://g.recordit.co/Umv3xbqZmk.gif)
 
 
 
