@@ -13,6 +13,8 @@ Acontinuacion  dare un breve resumen de mi, mis actitudes y tecnologias que ahor
  <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> Node.js
  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>PostgresSQL
 
+ <img src="https://img.icons8.com/emoji/48/000000/open-mailbox-with-raised-flag.png"/>Correo: Jl.rangel20@hotmail.com
+
 ## Proyecto Countries
   
   El siguiente proyecto fue realizado en mi etapa de estudios en Henry, el mismo fue realizado con las tecnologias antes mencionadas y tecnologias adicionales como React-Redux, Express y Sequelize.
