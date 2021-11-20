@@ -25,7 +25,7 @@ Acontinuacion  dare un breve resumen de mi, mis actitudes y tecnologias que ahor
   
   Acontinuacion les dejo una muestra visual del poryecto 
 
-   ![countri](http://g.recordit.co/OnWI8TSR79.gif)
+  ![paises](http://g.recordit.co/VpEz25l2sF.gif)
 
 
 
