@@ -25,9 +25,7 @@ Acontinuacion  dare un breve resumen de mi, mis actitudes y tecnologias que ahor
   
   Acontinuacion les dejo una muestra visual del poryecto 
 
-  ![countri](http://g.recordit.co/OnWI8TSR79.gif)
-
-   ![pokedex_demo](http://g.recordit.co/Umv3xbqZmk.gif)
+   ![countri](http://g.recordit.co/OnWI8TSR79.gif)
 
 
 
