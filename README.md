@@ -27,7 +27,7 @@ Acontinuacion  dare un breve resumen de mi, mis actitudes y tecnologias que ahor
   
   A continuación les dejo una muestra visual del proyecto 
 
-  ![paises](http://g.recordit.co/VpEz25l2sF.gif)
+  ![paises](http://g.recordit.co/m4bKUesiLT.gif)
 
 
 
