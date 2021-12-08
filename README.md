@@ -19,7 +19,7 @@ Acontinuacion  dare un breve resumen de mi, mis actitudes y tecnologias que ahor
   
   El siguiente proyecto fue realizado en mi etapa de estudios en Henry, el mismo fue realizado con las tecnologias antes mencionadas y tecnologias adicionales como React-Redux, Express y Sequelize.
 
-  La idea general es crear una aplicación en la cual se pueda ver información de  distintos paises utilizando la api externa [restcountries](https://restcountries.com/) y guardarlos en nuestra propia base de datos, luego ya utilizarlos desde allí para hacer las siguientes funciones:
+  La idea general es crear una Single-Page Application (SPA) en la cual se pueda ver información de  distintos paises utilizando la api externa [restcountries](https://restcountries.com/) y guardarlos en nuestra propia base de datos, luego ya utilizarlos desde allí para hacer las siguientes funciones:
 
   - Buscar paises
   - Filtrarlos / Ordenarlos
