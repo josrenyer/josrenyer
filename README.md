@@ -36,13 +36,21 @@ Developer Web FullStack certificado por el Bootcamp Henry con experiencias en de
   Algunas funciones con la que cuenta son: 
 
 
-  -Sección de Usuario y Administrador. 
+  -Sección de Usuario y Administrador.
+
+  -Login. 
 
   -Carrito de Compra. 
 
   -Mercado Pago. 
 
   -Agregar, Modificar y Eliminar Productos. 
+
+### Repositorio
+
+  [Front-ecommerce](https://github.com/TomasFarias11/Front-ecommerce)
+
+  [Back-Ecommerce](https://github.com/LuisRocca/back-ecommerce)
 
 ### Deploy
 
